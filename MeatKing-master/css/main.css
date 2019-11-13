@@ -76,7 +76,10 @@ section::before,section::after {
     02. Header 
 ========================================================================== */
 #header {
-    background-image:url(../img/night.jpg);
+    background-image:url(../img/bg3.jpg);
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
     background-size:cover;
     background-position:center center;
     background-attachment:fixed;
